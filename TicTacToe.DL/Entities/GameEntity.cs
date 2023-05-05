@@ -8,6 +8,5 @@
         public string CurrentPlayer { get; set; }
         public string Status { get; set; }
         public string Board { get; set; }
-        public int I { get; set; }
     }
 }
